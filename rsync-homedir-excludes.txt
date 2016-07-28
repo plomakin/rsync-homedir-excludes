@@ -19,22 +19,22 @@
 #.AndroidStudio*/
 #Android/Sdk
 #.gradle
-#.gvm
+.gvm
 #.grails/
 #.grails_history
 #.kde/share/apps/nepomuk
 #.local/share/notbit
 #.local/libvirt
-#.vagrant
-#.vagrant.d
-#.wine
+.vagrant
+.vagrant.d
+.wine
 #.twister
 #/twister
 #Applications/eclipse*
 #/Downloads
 #*Popcorntime*
 #/Scribus
-#/VirtualBox*
+/VirtualBox*
 #
 ## Add Game Folders here:
 #
